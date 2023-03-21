@@ -1,0 +1,25 @@
+{
+  "name": "@ernestoyoofi/local-db",
+  "version": "1.2.0",
+  "description": "simpel database in localing",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestoyoofi/local-db.git"
+  },
+  "keywords": [
+    "file-system",
+    "database",
+    "collection",
+    "nodejs"
+  ],
+  "author": "Ernestoyoofi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestoyoofi/local-db/issues"
+  },
+  "homepage": "https://github.com/ernestoyoofi/local-db#readme"
+}
